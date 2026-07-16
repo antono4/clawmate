@@ -1,5 +1,8 @@
 # ClawMate - Personal AI Assistant Gateway
 
+> **Created by Antono**
+
+
 <div align="center">
   <img src="public/clawmate.svg" alt="ClawMate Logo" width="100" />
 </div>
