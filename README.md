@@ -1,1 +1,32 @@
-Last updated: 2026-10-21 23:41:49 WIB
+# clawmate
+
+Personal AI Assistant Gateway
+
+## 📋 Overview
+
+This repository contains **43 files** and is built with the following technologies:
+
+Node.js, HTML, JavaScript
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js, HTML, JavaScript
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-10-22 00:21:19 WIB*
